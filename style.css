@@ -1,0 +1,69 @@
+body {
+    background: #01AEEF;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+form {
+    width: 495px;
+    margin: auto;
+    border: 2px solid darkslategrey;
+    padding: 10px
+}
+
+
+form i.fas {
+    color: black;
+    position: relative;
+    left: 20px;
+    cursor: pointer;
+}
+
+.flogin input {
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    height: 60px;
+    width: 450px;
+    border-radius: 5px;
+}
+
+.luu-login {
+    column-count: 2;
+    column-gap: 40%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+a {
+    text-decoration: none
+}
+
+.dn input {
+    width: 400px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: #01AEEF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+p{
+    text-align: center;
+}
